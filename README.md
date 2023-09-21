@@ -19,10 +19,8 @@ Can a gaming experience be simulated? --> Answer: Yes, but the shallow range of 
 2. Install the dependencies:
    a) Follow this video to get the ps4 bluetooth driver up and running -->
    more info on ds4drv: https://www.youtube.com/watch?v=CeyGP3_kKZI&ab_channel=ArturSpirin
-   
    b) sudo pip install pyPS4Controller -->
-   more info on pyPS4Controller:   https://www.youtube.com/watch?v=CeyGP3_kKZI&ab_channel=ArturSpirin
-   
+   more info on pyPS4Controller:   https://www.youtube.com/watch?v=CeyGP3_kKZI&ab_channel=ArturSpirin 
    c) gpiozero (not a pip install, but watch this to understand whats going on) -->
    https://www.youtube.com/watch?v=_fdwE4EznYo&ab_channel=GaryExplains
 
