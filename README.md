@@ -1,7 +1,7 @@
 ## Description:
 My Raspberry Pi Zero W Rover Control project came into existence when I saw a chassis from a trashed AWS DeepRacer Kit [including an esc, steering servo, and a 7.4v lipo] laying around in a parts bin.
 
-The moment I saw it, I knew I had to bring it to life. Missing were the transmitter/controller and the reciever/pwm generators. I set out to do this project with MINIMAL hardware overhead. Instead of buying a transmitter and reciever, I wanted to use only parts around the workshop. Thus, I scrounged a PS4 controller from a friend, an RPi Zero W (with bluetooth) and a usb power bank. Thus the project was started and completed a few weeks later. 
+The moment I saw it, I knew I had to bring it to life. The transmitter/controller and the reciever/pwm generators were missing. I set out to do this project with MINIMAL hardware overhead. Instead of buying a transmitter and reciever, I wanted to use only parts around the workshop. Thus, I scrounged a PS4 controller from a friend, an RPi Zero W (with bluetooth) and a usb power bank. Thus the project was started and completed a few weeks later. 
 
 ## Key Features:
 
