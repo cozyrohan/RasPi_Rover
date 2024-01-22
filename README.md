@@ -9,7 +9,7 @@ Raspberry Pi Zero W: Use Raspberry Pi Zero W, a compact single-board computer, t
 
 PS4 Controller Integration: Connect a PS4 controller to the Raspberry Pi Zero W via Bluetooth for rover control.
 
-Can a gaming experience be simulated? --> Answer: Yes, but the shallow range of motion on the joysticks is makes it a little difficult to control the cars steering and throttle as well as one might wish. No wonder there is dedicated hardware optimized for RC this after all...
+Can a gaming experience be simulated? --> Answer: Yes, but the shallow range of motion on the joysticks is makes it a little difficult to control the cars steering and throttle as well as one might wish. No wonder there is dedicated hardware optimized for RC after all...
 
 
 
